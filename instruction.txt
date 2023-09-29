@@ -1,0 +1,10 @@
+This folder consist of .py (Python) and .ipynb (Python Notebook) file which consist of the coding part of the assignment.
+(It is recommended to open .pynb file to open)
+
+During the analysis data is stored in the text file with URL ID (numeric) as their filename.
+
+Stop words files consist of all the stop word needed during the analysis.
+
+Two file with name 'positive-words' and 'negative--words' consist of positive and negative words needed during the analysis.
+
+The 'output.xlsx' file consist the output of the assignment after performing extraction and analysis. 
